@@ -42,7 +42,7 @@ void main() {
 
     await tester.tap(find.widgetWithText(ElevatedButton, 'Profile'));
     await tester.pumpAndSettle();
-    expect(find.text('student@example.com'), findsOneWidget);
+    expect(find.text('rupandhungana@gmail.com'), findsOneWidget);
 
     await tester.tap(find.widgetWithText(OutlinedButton, 'Back'));
     await tester.pumpAndSettle();

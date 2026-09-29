@@ -92,7 +92,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   const ListTile(
                     leading: Icon(Icons.mail_outline),
                     title: Text('Email'),
-                    subtitle: Text('student@example.com'),
+                    subtitle: Text('rupandhungana@gmail.com'),
                   ),
                 ],
               ),
